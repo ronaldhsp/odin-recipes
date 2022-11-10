@@ -1,0 +1,39 @@
+h1,
+h2,
+h3 {
+  font-family: Verdana, Arial, sans-serif;
+  font-weight: bold;
+}
+
+h1 {
+  background-color: bisque;
+  font-size: 32pt;
+}
+
+h2 {
+  background-color: aliceblue;
+  font-size: 28pt;
+}
+
+h3 {
+  background-color: cornsilk;
+  font-size: 24pt;
+}
+
+p,
+li {
+  background-color: ghostwhite;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 16pt;
+}
+
+img {
+  width: 900px;
+  height: auto;
+}
+
+.credit {
+  background-color: red;
+  color: yellow;
+  font-size: 20pt;
+}
